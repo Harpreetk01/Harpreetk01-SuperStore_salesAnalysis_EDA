@@ -12,7 +12,7 @@ We can use this dataset to gain valuable insights into the superstore's operatio
 3. Exploratory Data Analysis
 4. Checking null values and cleaning Data
 5. Visualisation 
-     - loss suncategory
+     - loss subcategory
      - overall market trend
      - sales and profit bu year
      - sub-category and segment count
